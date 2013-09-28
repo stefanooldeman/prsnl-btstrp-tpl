@@ -1,11 +1,6 @@
 # Personal Bootstrap Template
 
-:Author: `Stefano Oldeman`_
-:Maintainers: ` Mark Otto and Jacob Thornton`_
-:Homepage: http://getbootstrap.com/customize/
-
-This is a personal maintained frontend bare minimal theme, build on top of giants. 
-The custom build from twitter bootstrap is includes only the following:
+This is a personal minimal bootstrap. The custom build from twitter bootstrap includes only the following (also see: http://getbootstrap.com/customize/):
 
 **Common CSS**
 
@@ -45,3 +40,6 @@ The custom build from twitter bootstrap is includes only the following:
 
 * [jQuery](https://github.com/jquery/jquery)
 * [ES5 Shim](https://github.com/kriskowal/es5-shim)
+
+
+Building on top of giants.
